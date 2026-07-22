@@ -4,8 +4,8 @@
 # إعداد البوت
 app = Client(
     "FakeFriendBot",
-    bot_token="ضع هنا توكن البوت الخاص بك",
-    api_id=1234567,  # استبدل بـ API ID الخاص بك
+    bot_token=13701"ضع هنا توكن البوت الخاص بك",
+    api_id=14432718617,  # استبدل بـ API ID الخاص بك
     api_hash="ضع هنا API HASH الخاص بك"
 )
 
